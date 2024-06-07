@@ -1,0 +1,19 @@
+*{
+    color: palegreen;
+    /* This is universal selector, which applies to all */
+}
+
+h1{
+    color: red;
+    /* This is element selector */
+}
+
+#subheading{
+    color: blue;
+    /* This is id selector */
+}
+
+.Myclass{
+   background-color: yellow;
+   /* This is class selctor */
+}
